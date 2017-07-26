@@ -9,7 +9,7 @@ Version:	2.0.1
 Release:	1
 License:	LGPL v2.1+
 Group:		Libraries
-Source0:	http://ftp.acc.umu.se/pub/GNOME/sources/gtef/2.0/%{name}-%{version}.tar.xz
+Source0:	http://ftp.gnome.org/pub/GNOME/sources/gtef/2.0/%{name}-%{version}.tar.xz
 # Source0-md5:	fbd29e1b3503156e5d40714839474b25
 URL:		https://wiki.gnome.org/Projects/Gtef
 BuildRequires:	autoconf >= 2.64
