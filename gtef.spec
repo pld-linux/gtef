@@ -95,9 +95,7 @@ API języka Vala do biblioteki Gtef.
 Summary:	API documentation for Gtef library
 Summary(pl.UTF-8):	Dokumentacja API biblioteki Gtef
 Group:		Documentation
-%if "%{_rpmversion}" >= "5"
 BuildArch:	noarch
-%endif
 
 %description apidocs
 API documentation for Gtef library.
