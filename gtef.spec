@@ -6,7 +6,7 @@ Summary:	Gtef - GTK+ Text Editor Framework
 Summary(pl.UTF-8):	Gtef (GTK+ Text Editor Framework) - szkielet edytora tekstu operatego na GTK+
 Name:		gtef
 Version:	2.0.1
-Release:	1
+Release:	2
 License:	LGPL v2.1+
 Group:		Libraries
 Source0:	http://ftp.gnome.org/pub/GNOME/sources/gtef/2.0/%{name}-%{version}.tar.xz
